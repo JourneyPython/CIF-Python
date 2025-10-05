@@ -2,7 +2,7 @@
 items = ["artisan sandwich", "decaf", "earl grey tea", "croissant", "cappucchino"]
 prices = [9.99, 4.99, 2.99, 3.99, 4.59]
 
-# display the list of items with prices
+# display name of store, list of items with prices
 print("--WELCOME TO THE BOOKNOOK--")
 print("\nItems for sale:")
 for i in range(len(items)):
